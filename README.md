@@ -8,5 +8,5 @@
 |   CE       |  GPIO17     | 
 |   CSN      |  GPIO5      | 
 |   SCK      |  GPIO18     | 
-| 　MOSI     |  GPIO23     | 
-|   MISO     |  GPIO19　　 |
+|   MOSI     |  GPIO23     | 
+|   MISO     |  GPIO19     |
