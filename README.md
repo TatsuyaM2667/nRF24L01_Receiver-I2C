@@ -11,4 +11,6 @@ nRF24L01との配線は以下の通りです。
 |   SCK      |  GPIO18     | 
 |   MOSI     |  GPIO23     | 
 |   MISO     |  GPIO19     |
+
+
 [このリポジトリ](https://github.com/TatsuyaM2667/ESP32_I2C_SpreadSheet)を使う場合、ESP32とはGPIO21(SDA)、GPIO22(SCL)と設定しています。
