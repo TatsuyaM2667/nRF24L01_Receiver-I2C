@@ -1,7 +1,7 @@
 # nRF24L01_Receiver-I2C
-このコードはESP32でnRF24L01のデータを受信し、I2C経由で送信するコードです。[このリポジトリ](https://github.com/TatsuyaM2667/ESP32_I2C_SpreadSheet)に対応してます。
+このコードはESP32でnRF24L01のデータを受信し、I2C経由で送信するコード。[このリポジトリ](https://github.com/TatsuyaM2667/ESP32_I2C_SpreadSheet)に対応。
 
-nRF24L01との配線は以下の通りです。
+nRF24L01との配線は以下の通り
 | ESP32      | nRF24L01　  |
 |:-----------|------------:|
 |   3.3V     |  VCC        | 
